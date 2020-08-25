@@ -23,7 +23,7 @@ Download VirtualBox
  https://www.virtualbox.org/wiki/Downloads
  ```
  
-## Snd STEP :downloading  Ubuntu OS
+## 2nd STEP :downloading  Ubuntu OS
 2-After,we already have VirtualBox  installed on my machine. In order to create
 a new virtual machine,click on the new icon to download our Ubuntu OS.
 
@@ -84,4 +84,5 @@ Then we need to follow the steps On
 ROS website : http://wiki.ros.org/kinetic/Installation/Ubuntu
 ```
 Congratulations,, We have successfully installed ROS.
+
 THANK U )
