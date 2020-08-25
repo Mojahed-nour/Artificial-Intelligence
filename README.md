@@ -1,5 +1,4 @@
-# Artificial-Intelligence
-Here I will continuously upload my activities &amp; Tasks related to AI.
+# Installing ROS (Robot Operating System)
 
 
 ## My approuch in Installing ROS (Robot Operating System) on Ubuntu with steps and links .
